@@ -1,0 +1,16 @@
+.container-box{
+    height: 100vh;
+}
+
+.header{
+    background-image: linear-gradient(
+      to right,
+      rgba(0 0 0 / 1) 10%,
+        rgba(1 1 10 / 0.5) 45%,
+      rgb(0 0 0 / 0.1) 100%
+    ),
+    url(/img/medellin.jpg);
+    background-size: cover;
+    background-position: 50%;
+    height: 13rem;
+}
